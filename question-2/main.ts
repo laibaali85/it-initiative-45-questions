@@ -1,4 +1,1 @@
-const fullName:string ="laiba";
-
-console.log(fullName.toUpperCase())
-console.log(fullName.toLowerCase())
+console.log("hello do you want to learn some python?")
